@@ -29,8 +29,8 @@
 			&kp ESC     &kp ESC     &kp F1  &kp F2  &kp F3   &kp F4    &kp F5  &kp F6  &kp PSCRN       &kp RMETA   &kp F7  &kp F8   &kp F9    &kp F10  &kp F11     &kp F12     &kp SLCK &kp KP_NUMLOCK
 			&kp LMETA   &kp GRAVE 	&kp N1  &kp N2  &kp N3   &kp N4    &kp N5  &kp N6  &kp LSHFT       &kp RSHFT   &kp N7  &kp N8   &kp N9    &kp N0   &kp MINUS   &kp EQUAL &kp KP_DIVIDE &kp KP_MULTIPLY
 			&kp TAB     &none	    &kp Q   &kp W    &kp E     &kp R   &kp T &kp Y &kp LEFT_BRACE      &kp RIGHT_BRACE &kp Y   &kp U    &kp I     &kp O    &kp P       &kp KP_N7    &kp KP_N8  &kp KP_N9
-			&kp LSHFT   &none       &kp A   &kp S    &kp D     &kp F   &kp G   &kp H  &kp TILDE                &kp CAPS &kp H  &kp J    &kp K     &kp L    &kp SEMI    &kp KP_N4    &kp KP_N5  &kp KP_N6
-			&kp LSHFT   &kp LCTRL   &kp Z   &kp X    &kp C     &kp V   &kp B   &kp N   &kp LMETA            &kp FSLH    &kp N   &kp M    &kp COMMA &kp DOT  &kp SLASH   &kp KP_N1    &kp KP_N2  &kp KP_N3
+			&kp LSHFT   &SHFT      &kp A   &kp S    &kp D     &kp F   &kp G   &kp H  &kp TILDE                &kp CAPS &kp H  &kp J    &kp K     &kp L    &kp SEMI    &kp KP_N4    &kp KP_N5  &kp KP_N6
+			&kp LCTRL   &kp LCTRL   &kp Z   &kp X    &kp C     &kp V   &kp B   &kp N   &kp LMETA            &kp FSLH    &kp N   &kp M    &kp COMMA &kp DOT  &kp SLASH   &kp KP_N1    &kp KP_N2  &kp KP_N3
 			&kp LCTRL   &kp PIPE   &kp LWIN  &mo LOWER &kp LALT &kp LCTRL &kp SPACE &kp SPACE &kp DEL     &kp RCTRL &kp ENTER &kp RWIN &kp RMETA &kp RALT &kp RSHFT   &kp KP_N0    &kp KP_DOT  &kp KP_ENTER
 			>;
 		};
